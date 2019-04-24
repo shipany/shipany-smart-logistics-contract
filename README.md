@@ -6,3 +6,5 @@ ShipAny Smart Logistics Contract API Gateway is the first open-source smart logi
 - Lower the barrier of adopting blockchain and smart contract technology for supply chain related industries through well-defined RESTful API application interface
 
 We very welcome feature requests and applications integration. Let's build up the community together!
+
+See how ShipAny (as sample application) writing smart logistics contract on Amazon Managed Blockchain Service: https://youtu.be/03etXq8f4Jo
